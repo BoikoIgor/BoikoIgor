@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/igor-boiko/?locale=en_US" target="_blank">Igor Boiko</a> 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/igor-boiko/?locale=en_US" target="_blank">Igor Boiko</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">⚡Full Stack Developer⚡ from Ukraine 🇺a</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%60m++your+future+full+stack+developer" alt="Typing SVG" /></a>
+<h3 align="center">⚡I`m a student, my skills in progress: CSS, HTML, JS, React, Node.js⚡ Glory to Ukraine!</h3>
 <!--
 **BoikoIgor/BoikoIgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
