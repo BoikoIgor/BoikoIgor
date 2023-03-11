@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/igor-boiko/?locale=en_US" target="_blank">Igor Boiko</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23E6F7&center=true&vCenter=true&width=435&lines=I%60m++your+future+full+stack+developer" alt="Typing SVG" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2f80ed&center=true&vCenter=true&width=435&lines=I%60m++your+future+full+stack+developer" alt="Typing SVG" /></a>
 <h3>⚡I'm a student looking for work, my hard skills🌱: CSS, HTML, JS, React, Node.js ⚡Glory to Ukraine!⚡</h3>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoikoIgor&layout=compact&theme=transparent&border_color=00000000)](https://github.com/BoikoIgor/github-readme-stats)
