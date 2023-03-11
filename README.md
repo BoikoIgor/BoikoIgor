@@ -5,6 +5,7 @@
 <h5 align="center">I want to use my skills and knowledge to deliver good results in the long term. I am eager to achieve a good position in the company to scale up the organization’s production and growth rate and at the same time for my personal career growth as well. That’s all about me</h5>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/BoikoIgor/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/BoikoIgor/github-readme-stats)
 <!--
 **BoikoIgor/BoikoIgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
