@@ -12,11 +12,11 @@
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=BoikoIgor&show_icons=true&theme=transparent"
-  media="(hide_border)"
+  media="(prefers-color-scheme: dark), (hide_border)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=BoikoIgor&show_icons=true"
-  media="(hide_border)"
+  media="(prefers-color-scheme: dark), (hide_border)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=BoikoIgor&show_icons=true" />
 </picture></div>
