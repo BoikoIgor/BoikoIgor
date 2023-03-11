@@ -3,6 +3,8 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23E6F7&center=true&vCenter=true&width=435&lines=I%60m++your+future+full+stack+developer" alt="Typing SVG" /></a></div>
 <h3 align="center">⚡I`m a student, my skills in progress: CSS, HTML, JS, React, Node.js⚡ Glory to Ukraine!</h3>
 <h5 align="center">I want to use my skills and knowledge to deliver good results in the long term. I am eager to achieve a good position in the company to scale up the organization’s production and growth rate and at the same time for my personal career growth as well. That’s all about me</h5>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/BoikoIgor/github-readme-stats)
 <!--
 **BoikoIgor/BoikoIgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
